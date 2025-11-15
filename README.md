@@ -75,7 +75,7 @@ Frontend/
 
 ### Pré-requisitos
 - .NET 8 SDK instalado
-- Node.js 18+ e npm/yarn instalados
+- Node.js 18+ e npm instalados
 
 ### Backend
 
